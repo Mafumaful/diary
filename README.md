@@ -4,11 +4,17 @@
 
 # :fleur_de_lis:目录
 
+---
+
 ## :diamond_shape_with_a_dot_inside: 2020年
+
+### [十二月日记](./2020年/2020年12月.md)
 
 ---
 
-### [十二月日记](./2020年/2020年12月.md)
+## :diamond_shape_with_a_dot_inside: 2021年
+
+### [一月日记](./2021年/2021年1月)
 
 ---
 
